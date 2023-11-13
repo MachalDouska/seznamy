@@ -1,3 +1,3 @@
 # seznamy
 
-Odkaz: https://github.com/MachalDouska/seznamy.git
+Odkaz: https://machaldouska.github.io/seznamy/
